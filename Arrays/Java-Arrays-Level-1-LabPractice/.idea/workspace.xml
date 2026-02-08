@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="217cd6ae-f3b9-41e1-839d-f9d876b7d66b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../javaArrays/src/com/gla/Arrays/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaArrays/src/com/gla/Arrays/Employe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaArrays/src/com/gla/Arrays/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaArrays/src/com/gla/Arrays/Pryamid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaArrays/src/com/gla/Arrays/StoreMultiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../javaArrays/src/com/gla/Arrays/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="39NZgefh3WAuWfcLxDfE1BQnDZP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Array_2D.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactorArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MeanHeight.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddEvenArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StoreMultiple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Table.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Arrays&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.FizzBuzz">
+    <configuration name="Array_2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gla.Arrays.Array_2D" />
+      <module name="Java-Arrays-Level-1-LabPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gla.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gla.Arrays.FizzBuzz" />
+      <module name="Java-Arrays-Level-1-LabPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gla.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gla.Arrays.Table" />
+      <module name="Java-Arrays-Level-1-LabPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gla.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.Array_2D" />
+        <item itemvalue="Application.Table" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="217cd6ae-f3b9-41e1-839d-f9d876b7d66b" name="Changes" comment="" />
+      <created>1770538602550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770538602550</updated>
+    </task>
+    <servers />
+  </component>
+</project>
